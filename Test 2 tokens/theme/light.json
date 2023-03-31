@@ -1,0 +1,48 @@
+{
+  "colors": {
+    "action": {
+      "base": {
+        "value": "{colors.primary.40}",
+        "type": "color"
+      },
+      "emphasis": {
+        "value": "{colors.primary.30}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.primary.50}",
+        "type": "color"
+      },
+      "fg": {
+        "value": "{colors.white}",
+        "type": "color"
+      },
+      "fg-subdued": {
+        "value": "{colors.primary.80}",
+        "type": "color"
+      }
+    },
+    "neutral": {
+      "canvas": {
+        "value": "{colors.neutral.80}",
+        "type": "color"
+      },
+      "surface": {
+        "value": "{colors.white}",
+        "type": "color"
+      },
+      "subdued": {
+        "value": "{colors.neutral.90}",
+        "type": "color"
+      },
+      "fg": {
+        "value": "{colors.neutral.0}",
+        "type": "color"
+      },
+      "fg-subdued": {
+        "value": "{colors.neutral.40}",
+        "type": "color"
+      }
+    }
+  }
+}

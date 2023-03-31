@@ -1,0 +1,46 @@
+[
+  {
+    "id": "f0639165db6ebb37cfc83f94eeaed52fa1049031",
+    "name": "Light Flat",
+    "selectedTokenSets": {
+      "theme/light": "enabled",
+      "components/flat": "enabled",
+      "Core": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "a9d264216210fb7388927701d274477f9faa7683",
+    "name": "Light Border",
+    "selectedTokenSets": {
+      "Core": "source",
+      "theme/light": "enabled",
+      "components/flat": "enabled",
+      "components/border": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "4331ffa70207193d2029f35ea94068e464ef086c",
+    "name": "Dark Flat",
+    "selectedTokenSets": {
+      "Core": "source",
+      "theme/light": "enabled",
+      "theme/dark": "enabled",
+      "components/flat": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "d84c146a7fdbe18f81d48604b372c98592c183aa",
+    "name": "Dark Border",
+    "selectedTokenSets": {
+      "Core": "source",
+      "theme/light": "enabled",
+      "theme/dark": "enabled",
+      "components/flat": "enabled",
+      "components/border": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

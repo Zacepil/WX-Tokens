@@ -1,0 +1,32 @@
+{
+  "color": {
+    "button": {
+      "primary": {
+        "bg": {
+          "value": "{colors.action.base}",
+          "type": "color"
+        },
+        "bg-hover": {
+          "value": "{colors.action.muted}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{colors.action.fg}",
+          "type": "color"
+        },
+        "bg-press": {
+          "value": "{colors.action.emphasis}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{colors.action.fg}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{colors.action.fg-subdued}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

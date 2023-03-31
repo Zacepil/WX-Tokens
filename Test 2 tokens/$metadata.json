@@ -1,0 +1,9 @@
+{
+  "tokenSetOrder": [
+    "Core",
+    "theme/light",
+    "theme/dark",
+    "components/flat",
+    "components/border"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "colors": {
+    "neutral": {
+      "canvas": {
+        "value": "{colors.neutral.0}",
+        "type": "color"
+      },
+      "surface": {
+        "value": "{colors.neutral.20}",
+        "type": "color"
+      },
+      "subdued": {
+        "value": "{colors.neutral.10}",
+        "type": "color"
+      },
+      "fg": {
+        "value": "{colors.white}",
+        "type": "color"
+      },
+      "fg-subdued": {
+        "value": "{colors.neutral.60}",
+        "type": "color"
+      }
+    }
+  }
+}
